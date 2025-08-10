@@ -555,7 +555,7 @@ function initializeContactForm() {
         
         try {
             // Submit form data
-            const response = await fetch('https://formspree.io/f/xldlawbw', {
+            const response = await fetch('https://formspree.io/f/xzzvyavk', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
